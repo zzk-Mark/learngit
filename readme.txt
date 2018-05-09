@@ -9,4 +9,4 @@ success i can use it
 hahahahahha
 new banch try it
 
-master branch new write is quick and simple 
+create a new feature1 branch is quick and simple 
