@@ -7,4 +7,6 @@ pratice git reset
 it's really good
 success i can use it 
 hahahahahha
-new banch try it 
+new banch try it
+
+create a new feature1 branch is quick and simple 
