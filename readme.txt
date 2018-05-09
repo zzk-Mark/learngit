@@ -7,4 +7,6 @@ pratice git reset
 it's really good
 success i can use it 
 hahahahahha
-new banch try it 
+new banch try it
+
+master branch new write is quick and simple 
