@@ -9,4 +9,6 @@ success i can use it
 hahahahahha
 new banch try it
 
-create a new feature1 branch is quick and simple 
+create a new feature1 branch is quick and simple
+
+new branch dev try close fast forward 
